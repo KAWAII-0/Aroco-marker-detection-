@@ -1,0 +1,39 @@
+[0.533s] Invoking command in '/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber': PYTHONPATH=/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/prefix_override:/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/camera_subscriber build --build-base /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build install --record /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/install.log --single-version-externally-managed
+[0.744s] running egg_info
+[0.744s] creating build/camera_subscriber/camera_subscriber.egg-info
+[0.745s] writing build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[0.745s] writing dependency_links to build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[0.745s] writing entry points to build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[0.745s] writing requirements to build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[0.745s] writing top-level names to build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[0.746s] writing manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.747s] reading manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.748s] writing manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.748s] running build
+[0.748s] running build_py
+[0.748s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build
+[0.749s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib
+[0.749s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber
+[0.749s] copying camera_subscriber/camera_node.py -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber
+[0.749s] copying camera_subscriber/__init__.py -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber
+[0.749s] running install
+[0.749s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.749s]   warnings.warn(
+[0.749s] running install_lib
+[0.750s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.750s] copying /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber/camera_node.py -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.750s] copying /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber/__init__.py -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.750s] byte-compiling /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py to camera_node.cpython-310.pyc
+[0.751s] byte-compiling /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/__init__.py to __init__.cpython-310.pyc
+[0.751s] running install_data
+[0.752s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/share/ament_index
+[0.752s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index
+[0.752s] creating /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index/packages
+[0.752s] copying resource/camera_subscriber -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index/packages
+[0.752s] copying package.xml -> /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/share/camera_subscriber
+[0.752s] running install_egg_info
+[0.754s] Copying build/camera_subscriber/camera_subscriber.egg-info to /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[0.755s] running install_scripts
+[0.774s] Installing camera_node script to /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/camera_subscriber
+[0.774s] writing list of installed files to '/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/install.log'
+[0.795s] Invoked command in '/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber' returned '0': PYTHONPATH=/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/prefix_override:/home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/camera_subscriber build --build-base /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/build install --record /home/student/Downloads/ros2_ws/ArocoMarker_detection--main/ros2_project/ros2_opencv_control/src/camera_subscriber/build/camera_subscriber/install.log --single-version-externally-managed
