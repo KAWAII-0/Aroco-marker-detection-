@@ -1,4 +1,8 @@
 # Project Setup and Execution Guide
+## Authors
+
+- **Hamdan Saeed** 
+- **Artem Tymoshchuk** 
 
 ## Prerequisites
 Ensure you have the following installed on your system:
