@@ -105,7 +105,7 @@ class VisionNode(Node):
                     self.command_publisher.publish(motion_command)
 
             else:
-                motion_command = self.generate_motion_command(0.0,0.0,0.0)
+                motion_command = self.generate_motion_command(0,0,0)
                 self.command_publisher.publish(motion_command)
 
             # Display the processed image with markers

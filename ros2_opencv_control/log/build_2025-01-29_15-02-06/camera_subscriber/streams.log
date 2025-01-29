@@ -1,0 +1,26 @@
+[0.833s] Invoking command in '/home/student/test/Aroco-marker-detection-/ros2_opencv_control/src/camera_subscriber': PYTHONPATH=/home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/prefix_override:/home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/build install --record /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/install.log --single-version-externally-managed
+[1.097s] running egg_info
+[1.098s] writing ../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[1.098s] writing dependency_links to ../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[1.098s] writing entry points to ../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[1.098s] writing requirements to ../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[1.098s] writing top-level names to ../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[1.100s] reading manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.102s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.102s] running build
+[1.102s] running build_py
+[1.102s] copying camera_subscriber/camera_node.py -> /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/build/lib/camera_subscriber
+[1.103s] running install
+[1.103s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.103s]   warnings.warn(
+[1.103s] running install_lib
+[1.103s] copying /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/build/lib/camera_subscriber/camera_node.py -> /home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[1.104s] byte-compiling /home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py to camera_node.cpython-310.pyc
+[1.105s] running install_data
+[1.105s] running install_egg_info
+[1.109s] removing '/home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[1.109s] Copying ../../build/camera_subscriber/camera_subscriber.egg-info to /home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[1.110s] running install_scripts
+[1.136s] Installing camera_node script to /home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/camera_subscriber
+[1.137s] writing list of installed files to '/home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/install.log'
+[1.166s] Invoked command in '/home/student/test/Aroco-marker-detection-/ros2_opencv_control/src/camera_subscriber' returned '0': PYTHONPATH=/home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/prefix_override:/home/student/test/Aroco-marker-detection-/ros2_opencv_control/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/build install --record /home/student/test/Aroco-marker-detection-/ros2_opencv_control/build/camera_subscriber/install.log --single-version-externally-managed
